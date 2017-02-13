@@ -1,1 +1,4 @@
-export default function () {}
+export default function (a , b) {
+
+
+}
